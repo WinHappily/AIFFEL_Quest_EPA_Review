@@ -1,1 +1,29 @@
-# AIFFEL_Quest_EPA echo AIFFEL Quest 프로젝트 정리용 레포지토리 echo  echo ## 디렉토리 구조 echo  echo ```bash echo AIFFEL_Quest_EPA echo ├── DL                  # 머신러닝과 딥러닝(Deep Learning) 기초 모듈의 퀘스트 echo │   └── DL01 echo │       └── README.md echo ├── NLP                 # 자연어 처리(Natural Language Processing) 기초 모듈의 퀘스트 echo │   ├── NLP01 echo │   │   └── README.md echo │   ├── NLP02 echo │   │   └── README.md echo │   ├── NLP03 echo │   │   └── README.md echo │   ├── NLP04 echo │   │   └── README.md echo │   └── NLP05 echo │       └── README.md echo └── LLM                 # LLM(Large Language Model) 모듈의 퀘스트 echo     ├── LLM01 echo     │   └── README.md echo     ├── LLM02 echo     │   └── README.md echo     └── LLM03 echo         └── README.md echo ```
+# AIFFEL_Quest_EPA
+AIFFEL Quest 프로젝트 정리용 레포지토리
+
+## 디렉토리 구조
+
+```bash
+AIFFEL_Quest_EPA
+├── DL                  # 머신러닝과 딥러닝(Deep Learning) 기초 모듈의 퀘스트
+│   └── DL01
+│       └── README.md
+├── NLP                 # 자연어 처리(Natural Language Processing) 기초 모듈의 퀘스트
+│   ├── NLP01
+│   │   └── README.md
+│   ├── NLP02
+│   │   └── README.md
+│   ├── NLP03
+│   │   └── README.md
+│   ├── NLP04
+│   │   └── README.md
+│   └── NLP05
+│       └── README.md
+└── LLM                 # LLM(Large Language Model) 모듈의 퀘스트
+    ├── LLM01
+    │   └── README.md
+    ├── LLM02
+    │   └── README.md
+    └── LLM03
+        └── README.md
+```
